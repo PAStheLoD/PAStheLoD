@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![fancy test image](https://www.coreconsult.hu/img/design/main/m6.png)
+
 <!--
 **PAStheLoD/PAStheLoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
